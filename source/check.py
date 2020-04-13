@@ -9,6 +9,7 @@ def checkArg1 (c):
         raise argparse.ArgumentTypeError("Country requested is not available")
 
 
+
 def checkArg2 (m):
     measurements=["no2","pm25"]
     if m in measurements:

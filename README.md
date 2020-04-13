@@ -1,7 +1,7 @@
 # data-analysis-pipeline
 
 <p align="center">
-  <img width="100" height="100" src=INPUT/ironhack_logo.jpg?raw=true "Title">
+  <img width="100" height="100" src=input/ironhack_logo.jpg?raw=true "Title">
 </p>
 
 The main purpose of this project is to test the **effect in the air quality** due to the confinement during the covid-19 pandemic.
@@ -21,7 +21,7 @@ The result of this research shows us something positive in the dramatic situatio
 
 
 <p align="center">
-  <img width="800" height="300" src=INPUT/air.jpeg?raw=true "Title">
+  <img width="800" height="300" src=input/air.jpeg?raw=true "Title">
 </p>
 
 

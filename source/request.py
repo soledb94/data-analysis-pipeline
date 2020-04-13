@@ -15,7 +15,6 @@ def getFromOpenaq(city,measurement):
 
 
 
-
 def getResult(request,city,measurement):
     request = getFromOpenaq(city,measurement)
     result=request["results"][0]["measurements"][0]["value"]
