@@ -1,7 +1,6 @@
 # data-analysis-pipeline
 
 
-
 <p align="center">
   <img width="100" height="100" src=INPUT/ironhack_logo.jpg?raw=true "Title">
 </p>
@@ -19,8 +18,6 @@ Things to have into consideration:
 ***
 
 The result of this research shows us something positive in the dramatic situation experienced in 2020. It is a pity that this decrease in pollution is due to a side effect due to a mandatory confinement that we are experiencing rather than committed measures by politicians and citizens
-
-
 
 
 <p align="center">
