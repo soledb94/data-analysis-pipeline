@@ -21,7 +21,7 @@ The result of this research shows us something positive in the dramatic situatio
 
 
 <p align="center">
-  <img width="300" height="168" src=input/air.jpeg?raw=true "Title">
+  <img width="500" height="168" src=input/air.jpeg?raw=true "Title">
 </p>
 
 
