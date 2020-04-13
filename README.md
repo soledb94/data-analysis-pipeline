@@ -1,6 +1,5 @@
 # data-analysis-pipeline
 
-
 <p align="center">
   <img width="100" height="100" src=INPUT/ironhack_logo.jpg?raw=true "Title">
 </p>
